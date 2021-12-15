@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(43, 121, 185);
+}
+
+#btnAdd{
+    margin: 0;
+    font-size: large;
+    cursor: pointer;
+    display: table;
+    margin-right: auto;
+    text-align: center;
+    margin-left: auto;
+    border: thick  groove  rgb(55, 132, 194);
+    background-color: rgb(55, 132, 194);
+    color: aliceblue;
+    width: 300px;
+    height: 70px;
+}
+
+#display{ 
+    display: table;
+    margin-right: auto;
+    text-align: center;
+    margin-left: auto;
+    height: 15vmin;
+}
+
+#numeroDisplay{
+    color: aliceblue;
+    font-size: large;
+}
+
+#btnSubtrair{   
+    width: 80px;
+    height: 35px;
+    color: aliceblue;
+    background-color: rgb(0, 140, 255);
+}
+
+#btnSomar{
+    width: 80px;
+    height: 35px;
+    color: aliceblue;
+    background-color: rgb(0, 140, 255);
+}
+
+#btnReset{
+    width: 80px;
+    height: 35px;
+    color: aliceblue;
+    background-color: rgb(0, 140, 255);
+}
